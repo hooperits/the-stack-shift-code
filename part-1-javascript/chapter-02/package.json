@@ -1,0 +1,19 @@
+{
+  "name": "cms-cli",
+  "version": "1.0.0",
+  "description": "CLI para gestión de contenido - The Stack Shift",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "verify": "node verify-setup.js"
+  },
+  "keywords": [
+    "cms",
+    "cli",
+    "javascript",
+    "the-stack-shift"
+  ],
+  "author": "",
+  "license": "MIT"
+}
