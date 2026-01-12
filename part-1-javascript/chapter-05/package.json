@@ -1,0 +1,19 @@
+{
+  "name": "chapter-05-async",
+  "version": "1.0.0",
+  "description": "Capítulo 5: Programación Asíncrona - The Stack Shift",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "cms",
+    "async",
+    "promises",
+    "javascript",
+    "the-stack-shift"
+  ],
+  "author": "",
+  "license": "MIT"
+}
