@@ -1,0 +1,111 @@
+{
+  "version": "1.0",
+  "lastModified": "2026-01-12T04:49:38.057Z",
+  "posts": [
+    {
+      "id": "post-1768193368982",
+      "title": "Introducción a Kubernetes para Sysadmins",
+      "content": "Si administras servidores, Kubernetes cambiará tu forma de trabajar. En este artículo exploramos los conceptos fundamentales de orquestación de contenedores.",
+      "author": {
+        "id": "user-001",
+        "name": "María García",
+        "email": "maría.garcía@example.com"
+      },
+      "status": "published",
+      "createdAt": "2026-01-12T04:49:28.982Z",
+      "updatedAt": "2026-01-12T04:49:28.982Z",
+      "views": 245,
+      "featured": false
+    },
+    {
+      "id": "post-1768193368982",
+      "title": "Migrando de VMware a Proxmox",
+      "content": "La virtualización open source ha madurado significativamente. Aquí te mostramos cómo migrar tus VMs sin downtime y reducir costos de licenciamiento.",
+      "author": {
+        "id": "user-001",
+        "name": "Carlos Rodríguez",
+        "email": "carlos.rodríguez@example.com"
+      },
+      "status": "published",
+      "createdAt": "2026-01-12T04:49:28.982Z",
+      "updatedAt": "2026-01-12T04:49:28.982Z",
+      "views": 189,
+      "featured": false
+    },
+    {
+      "id": "post-1768193368982",
+      "title": "Automatización con Ansible",
+      "content": "Deja de hacer tareas repetitivas manualmente. Ansible te permite automatizar la configuración de cientos de servidores con playbooks declarativos.",
+      "author": {
+        "id": "user-001",
+        "name": "Ana Martínez",
+        "email": "ana.martínez@example.com"
+      },
+      "status": "draft",
+      "createdAt": "2026-01-12T04:49:28.982Z",
+      "updatedAt": "2026-01-12T04:49:28.982Z",
+      "views": 0,
+      "featured": false
+    },
+    {
+      "id": "post-1768193368982",
+      "title": "Docker para el Administrador de Sistemas",
+      "content": "Los contenedores no son solo para desarrolladores. Aprende a usar Docker para simplificar tu infraestructura y mejorar la consistencia entre ambientes.",
+      "author": {
+        "id": "user-001",
+        "name": "María García",
+        "email": "maría.garcía@example.com"
+      },
+      "status": "published",
+      "createdAt": "2026-01-12T04:49:28.982Z",
+      "updatedAt": "2026-01-12T04:49:28.982Z",
+      "views": 312,
+      "featured": false
+    },
+    {
+      "id": "post-1768193368982",
+      "title": "Monitoreo con Prometheus y Grafana",
+      "content": "Configura un stack de monitoreo profesional que te avise antes de que los usuarios reporten problemas. Dashboards hermosos y alertas inteligentes.",
+      "author": {
+        "id": "user-001",
+        "name": "Carlos Rodríguez",
+        "email": "carlos.rodríguez@example.com"
+      },
+      "status": "draft",
+      "createdAt": "2026-01-12T04:49:28.982Z",
+      "updatedAt": "2026-01-12T04:49:28.982Z",
+      "views": 0,
+      "featured": false
+    },
+    {
+      "id": "post-1768193369003",
+      "title": "Post creado el 11:49:28 PM",
+      "content": "Este post se guardará en el archivo posts.json y persistirá entre reinicios del programa. Cada ejecución agrega un nuevo post.",
+      "author": {
+        "id": "user-001",
+        "name": "Sistema CMS",
+        "email": "sistema.cms@example.com"
+      },
+      "status": "draft",
+      "createdAt": "2026-01-12T04:49:29.003Z",
+      "updatedAt": "2026-01-12T04:49:29.003Z",
+      "views": 0,
+      "featured": false
+    },
+    {
+      "id": "post-1768193378056",
+      "title": "Post creado el 11:49:38 PM",
+      "content": "Este post se guardará en el archivo posts.json y persistirá entre reinicios del programa. Cada ejecución agrega un nuevo post.",
+      "author": {
+        "id": "user-001",
+        "name": "Sistema CMS",
+        "email": "sistema.cms@example.com"
+      },
+      "status": "draft",
+      "createdAt": "2026-01-12T04:49:38.056Z",
+      "updatedAt": "2026-01-12T04:49:38.056Z",
+      "views": 0,
+      "featured": false
+    }
+  ]
+}
