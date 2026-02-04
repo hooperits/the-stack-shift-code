@@ -1,0 +1,9 @@
+/* App.css - Application styles */
+/* App.css - Estilos de la aplicación */
+/* Chapter/Capítulo 7: Introducción a React */
+
+.main-content {
+  padding: 2rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
