@@ -1,0 +1,79 @@
+/* App.css - Application styles */
+/* App.css - Estilos de la aplicación */
+/* Chapter/Capítulo 8: Props y Composición */
+
+.main-content {
+  padding: 2rem;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+/* EN: Post card styles for the blog post component */
+/* ES: Estilos de tarjeta de post para el componente de post */
+.post-card {
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 1.2rem;
+  margin-bottom: 1rem;
+  background-color: #ffffff;
+  transition: box-shadow 0.2s;
+}
+
+.post-card:hover {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.post-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.post-card-title {
+  margin: 0;
+  font-size: 1.1rem;
+  color: #1a1a2e;
+}
+
+.post-card-excerpt {
+  color: #555;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  margin: 0.5rem 0;
+}
+
+.post-card-footer {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 0.5rem;
+}
+
+.post-card-author {
+  font-size: 0.8rem;
+  color: #888;
+  font-style: italic;
+}
+
+/* EN: Post list container styles */
+/* ES: Estilos del contenedor de lista de posts */
+.post-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+/* EN: Section wrapper component styles */
+/* ES: Estilos del componente wrapper Section */
+.section {
+  margin-bottom: 2rem;
+}
+
+.section-title {
+  font-size: 1.3rem;
+  color: #1a1a2e;
+  border-bottom: 2px solid #e0e0e0;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+}
